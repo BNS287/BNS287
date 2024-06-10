@@ -1,0 +1,2 @@
+- Estudante do 2º ano do Ensino Médio 
+- Estudando Alura
